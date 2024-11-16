@@ -10,6 +10,6 @@
 Ranking<br>
 ![ranking](/assets/ranking.png)<br>
   * Achieved 0.1257 ranking 607 out of 4940, i.e. Top 12% in 18 days 
-  * Five best models used with an ensemble learning (Selected out of various others such as SVR,CBR,etc<br>
+  * Five best models used with an ensemble learning (Selected out of various others such as SVR,CBR,etc)<br>
   * A lot more challenges comparing to Titanic because of more variables<br>
 <br>
